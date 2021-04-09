@@ -1,5 +1,9 @@
 html {
   box-sizing: border-box;
+  line-height: 1.5;
+  background-color: #bebebe;
+  font-family: Georgia, serif;
+  color: #323232;
 }
 
 *, *::before, *::after {
@@ -20,7 +24,8 @@ main p {
 }
 
 img {
-  width: ;
+  width: 100%;
+  display: block;
 }
 
 header {
